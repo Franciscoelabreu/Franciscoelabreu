@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Francisco Abreu
 - 👀 I’m interested in Basketball, Web-design, coding, books, films, etc :D
-- 🌱 I’m currently learning JavaScript and React
+- 🌱 I’m currently learning JavaScript, React, Blender and Unity
 - 📫 How to reach me : @franciscoelabreu on instagram
